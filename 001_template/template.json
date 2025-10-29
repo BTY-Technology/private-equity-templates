@@ -4,7 +4,7 @@
   "category": "private-equity",
   "description": "Premium private equity website template with immersive dark theme, featuring glassmorphic design elements, floating particle animations, and grain texture overlays. Includes portfolio showcases, team profiles, service descriptions, insights/blog section, and validated contact forms. Perfect for private equity firms, investment companies, and venture capital organizations seeking a sophisticated digital presence.",
   "version": "1.0.0",
-  "featured": false,
+  "featured": true,
   "preview": {
     "thumbnail": "/previews/private-equity-001/thumbnail.jpg",
     "screenshots": [],
@@ -24,12 +24,8 @@
     "Team member profiles with circular professional headshots and bio cards",
     "Service cards with gradient backgrounds and visual hierarchy",
     "Insights/blog section with category filtering and article cards",
-    "Contact form with React Hook Form validation and Zod schema",
-    "Custom Tailwind animations (float, pulse-glow, particle-float keyframes)",
+    "Contact form",
     "Ultra-light typography with Montserrat headings and Inter body text",
-    "Back-to-top button with smooth scroll behavior",
-    "BTY Technology branding watermark with external link",
-    "Custom button components with four variants (primary, secondary, outline, white)",
     "Smooth hover effects and cubic-bezier transitions throughout"
   ],
   "techStack": [
