@@ -1,0 +1,58 @@
+{
+  "id": "private-equity-001",
+  "name": "Template 001",
+  "category": "private-equity",
+  "description": "Premium private equity website template with immersive dark theme, featuring glassmorphic design elements, floating particle animations, and grain texture overlays. Includes portfolio showcases, team profiles, service descriptions, insights/blog section, and validated contact forms. Perfect for private equity firms, investment companies, and venture capital organizations seeking a sophisticated digital presence.",
+  "version": "1.0.0",
+  "featured": false,
+  "preview": {
+    "thumbnail": "/previews/private-equity-001/thumbnail.jpg",
+    "screenshots": [],
+    "demoUrl": "https://private-equity-001.website.btytechnology.com"
+  },
+  "features": [
+    "Fully responsive mobile-first design with uniform mobile layouts",
+    "SEO optimized with comprehensive metadata, Open Graph, and Twitter cards",
+    "Immersive dark theme with black background and red/purple/amber accent colors",
+    "Floating particle background animations with multiple color variations",
+    "Glassmorphic navigation with backdrop blur effects and sticky positioning",
+    "Grain texture overlay for premium cinematic aesthetic",
+    "Scroll-triggered animations using Intersection Observer API",
+    "Parallax scrolling effects and hero section blur transitions",
+    "Portfolio company showcase with Unsplash images and alternating desktop layouts",
+    "Interactive portfolio filtering by sector (Technology, Healthcare, Financial Services) and status",
+    "Team member profiles with circular professional headshots and bio cards",
+    "Service cards with gradient backgrounds and visual hierarchy",
+    "Insights/blog section with category filtering and article cards",
+    "Contact form with React Hook Form validation and Zod schema",
+    "Custom Tailwind animations (float, pulse-glow, particle-float keyframes)",
+    "Ultra-light typography with Montserrat headings and Inter body text",
+    "Back-to-top button with smooth scroll behavior",
+    "BTY Technology branding watermark with external link",
+    "Custom button components with four variants (primary, secondary, outline, white)",
+    "Smooth hover effects and cubic-bezier transitions throughout"
+  ],
+  "techStack": [
+    "Next.js 14",
+    "React 18",
+    "TypeScript",
+    "Tailwind CSS 3.4",
+    "React Hook Form 7.49",
+    "Zod 3.22",
+    "@hookform/resolvers",
+    "Google Fonts (Inter, Montserrat)"
+  ],
+  "colors": {
+    "primary": "#000000",
+    "secondary": "#DC2626",
+    "accent": "#D4AF37"
+  },
+  "pages": [
+    "Home",
+    "Portfolio",
+    "About",
+    "Services",
+    "Insights",
+    "Contact"
+  ]
+}
